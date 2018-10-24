@@ -1,0 +1,4 @@
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.csprojAssemblyReference.cache
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.csproj.CoreCompileInputs.cache
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.AssemblyInfoInputs.cache
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.AssemblyInfo.cs

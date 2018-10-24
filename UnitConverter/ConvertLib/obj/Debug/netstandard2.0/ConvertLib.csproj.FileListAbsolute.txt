@@ -1,0 +1,9 @@
+C:\AVBP\UnitConverter\ConvertLib\bin\Debug\netstandard2.0\ConvertLib.deps.json
+C:\AVBP\UnitConverter\ConvertLib\bin\Debug\netstandard2.0\ConvertLib.dll
+C:\AVBP\UnitConverter\ConvertLib\bin\Debug\netstandard2.0\ConvertLib.pdb
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.csprojAssemblyReference.cache
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.csproj.CoreCompileInputs.cache
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.AssemblyInfoInputs.cache
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.AssemblyInfo.cs
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.dll
+C:\AVBP\UnitConverter\ConvertLib\obj\Debug\netstandard2.0\ConvertLib.pdb
