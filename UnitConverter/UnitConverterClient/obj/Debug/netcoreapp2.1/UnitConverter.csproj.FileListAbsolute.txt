@@ -2,3 +2,13 @@ C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.
 C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.csproj.CoreCompileInputs.cache
 C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.AssemblyInfoInputs.cache
 C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.AssemblyInfo.cs
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\UnitConverter.deps.json
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\UnitConverter.runtimeconfig.json
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\UnitConverter.runtimeconfig.dev.json
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\UnitConverter.dll
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\UnitConverter.pdb
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\ConvertLib.dll
+C:\AVBP\UnitConverter\UnitConverterClient\bin\Debug\netcoreapp2.1\ConvertLib.pdb
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.csproj.CopyComplete
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.dll
+C:\AVBP\UnitConverter\UnitConverterClient\obj\Debug\netcoreapp2.1\UnitConverter.pdb

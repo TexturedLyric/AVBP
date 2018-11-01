@@ -7,7 +7,9 @@ namespace UnitConverter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ConvertLib.CelToFar(20));
+            MyTempCon converter = new MyTempCon();
+
+            Console.WriteLine(MyTempCon.CelToFar(20));
         }
     }
 }
