@@ -1,0 +1,9 @@
+C:\AVBP\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+C:\AVBP\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+C:\AVBP\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojAssemblyReference.cache
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+C:\AVBP\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
