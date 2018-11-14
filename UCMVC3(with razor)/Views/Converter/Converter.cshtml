@@ -1,0 +1,17 @@
+@model ConverterViewModel
+
+
+<form asp-controller="Converter" asp-action="DoConversion" method="POST">
+    <!-- borrowed from w3Schools-->
+
+  Value to Convert:<br>
+  <input type="text" asp-for="ValueToConvert"value="ex. 52">
+  <br>
+
+  Conversion Type<br>
+  <input type="text" asp-for="ConType" value="ex. Cel to Far">
+  <br><br>
+
+  <input type="submit" value="Submit">
+
+</form>

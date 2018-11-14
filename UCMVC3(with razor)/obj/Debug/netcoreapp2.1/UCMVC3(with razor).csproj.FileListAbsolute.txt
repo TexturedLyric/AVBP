@@ -1,0 +1,35 @@
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).deps.json
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).runtimeconfig.json
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).runtimeconfig.dev.json
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).dll
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).pdb
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).Views.dll
+C:\AVBP\UCMVC3(with razor)\bin\Debug\netcoreapp2.1\UCMVC3(with razor).Views.pdb
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).csprojAssemblyReference.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).csproj.CoreCompileInputs.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).RazorAssemblyInfo.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).RazorAssemblyInfo.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).AssemblyInfoInputs.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).AssemblyInfo.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).TagHelpers.input.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).TagHelpers.output.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).RazorCoreGenerate.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Converter\Index.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).RazorTargetAssemblyInfo.cache
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).RazorTargetAssemblyInfo.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).Views.pdb
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).dll
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).pdb
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\UCMVC3(with razor).csproj.CopyComplete
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Converter\Converter.g.cshtml.cs
+C:\AVBP\UCMVC3(with razor)\obj\Debug\netcoreapp2.1\Razor\Views\Converter\DoConversion.g.cshtml.cs
