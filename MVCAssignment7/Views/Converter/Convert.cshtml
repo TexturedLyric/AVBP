@@ -1,0 +1,30 @@
+@model ConverterViewModel
+
+
+<form asp-controller="Converter" asp-action="DoConversion" method="POST">
+    <!-- borrowed from w3Schools-->
+
+  Value to Convert:<br>
+  <input type="text" asp-for="ValueToConvert"value="ex. 52">
+  <br>
+
+  Conversion Type<br>
+ <select  asp-for="ConType">
+    <option value="CelToFar">CelToFar</option>
+    <option value="FarToCel">FarToCel</option>
+    <option value="FeetToYard">FeetToYard</option>
+    <option value="YardToFeet">YardToFeet</option>
+    <option value="FeetToMeter">FeetToMeter</option>
+    <option value="MeterToFeet">MeterToFeet</option>
+    <option value="OunceToPound">OunceToPound</option>
+    <option value="PoundToOunce">PoundToOunce</option>
+    <option value="OunceToGram">OunceToGram</option>
+    <option value="GramToOunce">GramToOunce</option>
+    <option value="GramToKilo">GramToKilo</option>
+    <option value="KiloToGram">KiloToGram</option>
+  </select>
+  <br><br>
+
+  <input type="submit" value="Submit">
+
+</form>

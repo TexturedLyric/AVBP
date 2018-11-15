@@ -1,0 +1,6 @@
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.csprojAssemblyReference.cache
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.csproj.CoreCompileInputs.cache
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.RazorAssemblyInfo.cache
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.RazorAssemblyInfo.cs
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.AssemblyInfoInputs.cache
+C:\AVBP\MVCAssignment7\obj\Debug\netcoreapp2.1\MVCAssignment7.AssemblyInfo.cs
