@@ -4,18 +4,14 @@
 <fieldset>
 
 <!-- Form Name -->
-<legend>Form Name</legend>
+<legend>Mathematical Operations</legend>
 
 <!-- Select Basic -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="selectbasic">Select Basic</label>
   <div class="col-md-4">
-    <select id="selectbasic" name="selectbasic" asp-for="@Model.Operator" class="form-control">
-      <option value="1">Addition</option>
-      <option value="2">Subtration</option>
-      <option value="2">Multiplication</option>
-      <option value="2">Division</option>
-    </select>
+    <input  id="textinput" name="textinput" type="text" asp-for="@Model.Operator" class="form-control">
+    
   </div>
 </div>
 

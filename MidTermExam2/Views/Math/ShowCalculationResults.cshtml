@@ -1,4 +1,8 @@
 @model MidTermExam2.Models.MathOperation
 
+@MathOperation{
+    ViewData["Result"] = "Results";
+}
+<h1>@ViewData["Result"]</h1>
 
-<h1></h1>
+<h1>The result of @model.RightOperand @model.Operator @model.LeftOperand will equal @model.Result</h1>
