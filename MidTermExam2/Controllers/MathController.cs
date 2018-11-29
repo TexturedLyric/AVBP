@@ -23,6 +23,7 @@ namespace MidTermExam2.Controllers
 
             switch(Operater)
             {
+                /*
                 case "Add":
                 case "add":
                 case "addition":
@@ -48,7 +49,9 @@ namespace MidTermExam2.Controllers
                     Console.WriteLine("Div check");
                     decimal Divresult = Calculations.Division(LeftOperand, RightOperand);
                 break;
+            */
             }
+            
             return View();
         }
 
